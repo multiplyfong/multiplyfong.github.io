@@ -4,4 +4,7 @@ body {
   }
 .image{
     background-image: url("https://i.imgur.com/hsXLIxr.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
 }
