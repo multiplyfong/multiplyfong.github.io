@@ -6,6 +6,7 @@ body {
 h1 {
     color:red;
 }
+
 p {
     color:blue;
     background-color: yellow;
@@ -16,7 +17,7 @@ p {
     background-position: center;
     height: 900px;
 }
-.des {
+.des{
     display: block;
     font-family: 'Playfair Display', serif;
     font-size: 14px;
@@ -31,3 +32,11 @@ p {
     color: black;
     opacity: 0.75;
   }
+  .writer-img {
+    -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    float: left;
+    width: 50px;
+  }
+  
