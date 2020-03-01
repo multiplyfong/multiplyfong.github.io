@@ -1,8 +1,7 @@
 body {
-    font-family: 'Tangerine', serif;
-    font-size: 20px;
+    background-color: white;
+    font-family:'Raleway', sans-serif;
   }
-
 h1 {
     color:red;
 }
@@ -11,7 +10,7 @@ p {
     background-color: yellow;
 }
 .image{
-    background-image: url("https://i.imgur.com/8dtSDO6.jpg");
+    background-image: url("https://i.imgur.com/hsXLIxr.jpg");
     background-size: cover;
     background-position: center;
     height: 300px;
