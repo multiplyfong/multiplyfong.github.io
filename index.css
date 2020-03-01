@@ -3,5 +3,5 @@ body {
     font-size: 48px;
   }
 .image{
-    background-image: url(https://imgur.com/hsXLIxr);
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg);
 }
