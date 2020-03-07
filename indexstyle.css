@@ -2,6 +2,7 @@ body {
     background-color: white;
     font-family:'Raleway', sans-serif;
     font-size: 20px;
+    font-family: 'Noto Sans TC', sans-serif;
   }
 h1 {
     color:red;
@@ -36,7 +37,7 @@ p {
     -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
     -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
     box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-    float: right;
+    float: left;
     width: 50px;
   }
   
