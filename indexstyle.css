@@ -25,11 +25,11 @@ p {
     background-color: yellow;
 }
 
-oi {
+ol {
   color: #c0c0c0;
   height:20px;
 }
-oi.li{
+ol.li{
   height: 18px;
   color:	#E1E100;
 }
