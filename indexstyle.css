@@ -25,6 +25,12 @@ p {
     background-color: yellow;
 }
 
+.indent p{
+  padding-left: 1.5em;
+}
+
+}
+
 .four ul {
   color: #c0c0c0;
   height:40px;
