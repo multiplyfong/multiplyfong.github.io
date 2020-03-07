@@ -29,6 +29,8 @@ p {
   color: #c0c0c0;
   height:40px;
   text-align: center;
+  margin:0;
+  padding:0;
 }
 .four li{
   height: 30px;
