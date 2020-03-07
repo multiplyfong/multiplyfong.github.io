@@ -25,13 +25,14 @@ p {
     background-color: yellow;
 }
 
-ol {
+ul {
   color: #c0c0c0;
   height:20px;
 }
-ol.li{
+ul li{
   height: 18px;
   color:	#E1E100;
+  text-align: center;
 }
 .image{
     background-image: url("https://i.imgur.com/hsXLIxr.jpg");
