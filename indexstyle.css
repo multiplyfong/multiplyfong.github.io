@@ -1,8 +1,10 @@
 body {
+    text-align: justify;
     background-color: white;
     font-family:'Raleway', sans-serif;
     font-size: 20px;
     font-family: 'Noto Sans TC', sans-serif;
+
   }
   .oscar a {
   text-decoration:none;
