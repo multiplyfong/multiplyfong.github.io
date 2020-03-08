@@ -21,6 +21,20 @@ body {
     position: relative;
   }
 
+  .four.ul {
+    color: #c0c0c0;
+    height:40px;
+    font-weight:bold;
+    text-align: center;
+    list-style-type:none;
+    text-decoration:none;
+  }
+  .four li{
+    height: 30px;
+    color:	#E1E100;
+    text-align: center;
+    list-style-type:none; 
+  }
 .oscar a {
    text-decoration:none;
 }
@@ -46,20 +60,7 @@ p {
 
 }
 
-.four.ul {
-  color: #c0c0c0;
-  height:40px;
-  font-weight:bold;
-  text-align: center;
-  list-style-type:none;
-}
-.four li{
-  height: 30px;
-  color:	#E1E100;
-  text-align: center;
-  list-style-type:none;
-  
-}
+
 .image{
     background-image: url("https://i.imgur.com/hsXLIxr.jpg");
     background-size: cover;
