@@ -6,23 +6,23 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
 
   }
-  .oscar a {
-  text-decoration:none;
+.oscar a {
+   text-decoration:none;
 }
 .oscar a:hover{
-  text-decoration:underline;
-  color: #6a5acd;
-  background-color:#C9C3ED;
+   text-decoration:underline;
+   color: #6a5acd;
+   background-color:#C9C3ED;
 }
 
 }
 h1 {
-    color:red;
+   color:red;
 }
 
 p {
-    color:blue;
-    background-color: yellow;
+   color:blue;
+   background-color: yellow;
 }
 
 .indent p{
@@ -31,9 +31,10 @@ p {
 
 }
 
-.four ul {
+.ul {
   color: #c0c0c0;
   height:40px;
+  font-weight:bold;
   text-align: center;
   margin:0;
   padding:0;
