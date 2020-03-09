@@ -15,7 +15,7 @@ body {
       width:100%;
     }
   
-  #banner .content{
+  #banner .content h1{
     color:white;
     font-size:28px;
     position: relative;
@@ -23,17 +23,11 @@ body {
 
   .four ul {
     text-decoration:none;
-    color: #c0c0c0;
-    height:40px;
-    font-weight:bold;
-    text-align: center;
-    list-style-type:none;
+ 
     
   }
   .four li{
-    height: 30px;
-    color:	#E1E100;
-    list-style-type:none; 
+    
     text-decoration:none;
   }
 .fast oscars a {
