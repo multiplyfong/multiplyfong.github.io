@@ -22,17 +22,17 @@ body {
   }
 
   .four ul {
+    text-decoration:none;
     color: #c0c0c0;
     height:40px;
     font-weight:bold;
     text-align: center;
     list-style-type:none;
-    text-decoration:none;
+    
   }
   .four li{
     height: 30px;
     color:	#E1E100;
-    text-align: center;
     list-style-type:none; 
     text-decoration:none;
   }
